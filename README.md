@@ -1,3 +1,14 @@
+#Hospital Management System - MERN Stack 
+The Hospital Management System was developed using MERN stack. The system includes all the functions required by the hospital staff to manage the tasks within a hospital.Which included CRUD operations in 8 specific management systems. I handled the Transport services management and Radiology and Imaging Management.
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
